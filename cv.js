@@ -20,8 +20,8 @@ function data() {
 
                /*     notableCourses: [
                         "SolidWorks 3D Modeling",
-                        "Finite Element Analysis"*/
-                ]                   
+                        "Finite Element Analysis"
+                ]   */                
                 }
             },
             work: [
