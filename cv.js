@@ -18,9 +18,9 @@ function data() {
                     major: "Bachelor of Science, Mechanical Engineering, Aerospace Specialization",
                     honors: ["GPA: 3.10, NYU Tandon Scholarship, NYU Trio Scholar"]
 
-                    notableCourses: [
+               /*     notableCourses: [
                         "SolidWorks 3D Modeling",
-                        "Finite Element Analysis"
+                        "Finite Element Analysis"*/
                 ]                   
                 }
             },
