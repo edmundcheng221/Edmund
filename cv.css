@@ -1,1 +1,31 @@
+section {
+   display: block; 
+   border-bottom: 1px solid black;
+}
+section.skills {
+    border-bottom: none;
+}
 
+span#duration {
+    float: right
+}
+
+section.introduction * {
+    margin: auto;
+    text-align: center;
+}
+
+section.education * {
+    margin: auto;
+    text-align: center;
+}
+
+section *#header {
+    margin: auto;
+    text-align: center;
+}
+
+@page {
+    size: A4;
+    margin: 0.5in;
+}
