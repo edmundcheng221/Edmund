@@ -26,32 +26,32 @@ function data() {
             },
             work: [
                 {
-                    duration: "",
-                    title: "",
-                    company: "",
+                    duration: "-",
+                    title: "-",
+                    company: "-",
                     responsibilities: [
-                        ""
+                        "-"
                     ]
                 },
                 {
-                    duration: "",
-                    title: "",
-                    company: "",
+                    duration: "-",
+                    title: "-",
+                    company: "-",
                     responsibilities: [
-                        ""
+                        "-"
                     ]
                 },
                 {
-                    duration: "",
-                    title: "",
-                    company: "",
+                    duration: "-",
+                    title: "-",
+                    company: "-",
                     responsibilities: [
-                        "",
-                        "",
-                        ""
+                        "-",
+                        "-",
+                        "-"
                      
                     ],
-                    hideForResume: true
+                  //  hideForResume: true
                 },
                 {
                     duration: "",
@@ -63,23 +63,23 @@ function data() {
                     ]
                 },
                 {
-                    duration: "",
-                    title: "",
-                    company: "",
+                    duration: "-",
+                    title: "-",
+                    company: "-",
                     responsibilities: [
-                        "",
-                        ""
+                        "-",
+                        "-"
                     ],
-                    hideForResume: true
+                 //   hideForResume: true
                 }
             ],
             schoolProjects: [
                 {
-                    duration: "",
-                    title: "",
+                    duration: "-",
+                    title: "-",
                     responsibilities: [
-                        "",
-                        ""
+                        "-",
+                        "-"
    
                     ]
                 }
