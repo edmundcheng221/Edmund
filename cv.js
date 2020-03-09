@@ -102,11 +102,12 @@ function data() {
                     ]
                 },
                 {
-                    category: "Software Tools and Suites",
+                    category: "Software Tools, Version Control and Suites",
                     items: [
                         "SolidWorks",
                         "AutoCAD",
                         "ANSYS",
+                        "Git",
                         "Microsoft Office"
                     ]
                 },
