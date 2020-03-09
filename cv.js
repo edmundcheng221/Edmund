@@ -15,7 +15,7 @@ function data() {
             education: {
                 college: {
                     institution: "New York University",
-                    major: "Bachelor of Science, Mechanical Engineering, Aerospace Specialization",
+                    major: "B.S., Mechanical Engineering with Aerospace Specialization, 2021",
                     honors: ["GPA: 3.10, NYU Tandon Scholarship, NYU Trio Scholar"]
 
                     /*notableCourses: [
