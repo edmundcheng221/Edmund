@@ -26,25 +26,29 @@ function data() {
             },
             work: [
                 {
-                    duration: "-",
-                    title: "-",
-                    company: "-",
+                    duration: "July 2019-Present",
+                    title: "Engineering Project Assistant",
+                    company: "NYU Tandon School of Engineering",
+                    responsibilities: [
+                        "Coordinate and prepare construction drawings and construction detailing for construction/renovation proects, and/or furniture installations",
+                        "Coordinate scope and procurement of proposals from outside conultants or contractors",
+                        "Review building codes to assure that design complies with the minimum legal standards,
+                        "Survey TSoE facilities; develop and/or update existing or proposed plans using AutoCAD",
+                        "Prepare designs for space planning layouts, including blocking and other duties as assigned by supervisors"
+                    ]
+                },
+                {
+                    duration: "June 2019-July 2019",
+                    title: "Research Intern",
+                    company: "Eisele Research Group",
                     responsibilities: [
                         "-"
                     ]
                 },
                 {
-                    duration: "-",
-                    title: "-",
-                    company: "-",
-                    responsibilities: [
-                        "-"
-                    ]
-                },
-                {
-                    duration: "-",
-                    title: "-",
-                    company: "-",
+                    duration: "Feb. 2019-May 2019",
+                    title: "Software Engineering Intern",
+                    company: "WILD Technologies AI Limited",
                     responsibilities: [
                         "-",
                         "-",
@@ -56,7 +60,7 @@ function data() {
                 {
                     duration: "",
                     title: "",
-                    company: "",
+                    company: "Bern Dibner Library of Science and Technology",
                     responsibilities: [
                         "",
                         ""
@@ -65,12 +69,12 @@ function data() {
                 {
                     duration: "-",
                     title: "-",
-                    company: "-",
+                    company: "NYU Tandon School of Engineering",
                     responsibilities: [
                         "-",
                         "-"
                     ],
-                 //   hideForResume: true
+                    hideForResume: true
                 }
             ],
             schoolProjects: [
