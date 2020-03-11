@@ -32,7 +32,7 @@ function data() {
                     responsibilities: [
                         "Coordinate and prepare construction drawings and construction detailing for construction/renovation proects, and/or furniture installations",
                         "Coordinate scope and procurement of proposals from outside conultants or contractors",
-                        "Review building codes to assure that design complies with the minimum legal standards,
+                        "Review building codes to assure that design complies with the minimum legal standards",
                         "Survey TSoE facilities; develop and/or update existing or proposed plans using AutoCAD",
                         "Prepare designs for space planning layouts, including blocking and other duties as assigned by supervisors"
                     ]
@@ -58,8 +58,8 @@ function data() {
                   //  hideForResume: true
                 },
                 {
-                    duration: "",
-                    title: "",
+                    duration: "Aug. 2017-Present",
+                    title: "Student Assistant",
                     company: "Bern Dibner Library of Science and Technology",
                     responsibilities: [
                         "",
