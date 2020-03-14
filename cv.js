@@ -24,6 +24,23 @@ function data() {
                 ] */                  
                 }
             },
+            schoolProjects: [
+                {
+                    duration: "Jan. 2018-Jan. 2019",
+                    title: "Soft Robotics Student Researcher",
+                    responsibilities: [
+                        "-",
+                        "-"
+   
+                    ]
+                }
+               
+
+
+
+
+
+            ],
             work: [
                 {
                     duration: "July 2019-Present",
@@ -77,32 +94,17 @@ function data() {
                     hideForResume: true
                 }
             ],
-            schoolProjects: [
-                {
-                    duration: "-",
-                    title: "-",
-                    responsibilities: [
-                        "-",
-                        "-"
-   
-                    ]
-                }
-               
-
-
-
-
-
-            ],
+            
             skills: [
                 {
                     category: "Programming Languages (Relevant Frameworks and Libraries)",
                     items: [
-                        "JavaScript/TypeScript (Angular)",
+                        "JavaScript/TypeScript (Angular, node.js)",
                         "Python (Django)",
                         "Matlab",
                         "Simulink",
                         "HTML/CSS"
+         
                     ]
                 },
                 {
