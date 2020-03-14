@@ -181,12 +181,11 @@ function generateEducation() {
         .text(resumeData.education.college.major)
         .attr("id", "major");
     college.append("div")
+        .text(resumeData.education.college.accolades)
+        .attr("id", "accolades");
+    college.append("div")
         .text(`Honors: ${resumeData.education.college.honors.join(", ")}`)
         .attr("id", "honors");
-        
-    college.append("div")
-        .text(`Accolades: ${resumeData.education.college.accolades.join(", ")}`)
-        .attr("id", "accolades");
         
 }
 function generateSchoolProjects() {
