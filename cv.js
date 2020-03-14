@@ -16,7 +16,7 @@ function data() {
                 college: {
                     institution: "New York University",
                     major: "B.S., Mechanical Engineering with Aerospace Specialization, 2021",
-                    honors: ["GPA: 3.10, NYU Tandon Scholarship, NYU Trio Scholar"]
+                    honors: ["GPA: 3.06, NYU Tandon Scholarship, NYU Trio Scholar"]
 
                     /*notableCourses: [
                         "SolidWorks 3D Modeling",
@@ -183,11 +183,11 @@ function generateEducation() {
     college.append("div")
         .text(`Honors: ${resumeData.education.college.honors.join(", ")}`)
         .attr("id", "honors");
-        /*
+        
     college.append("div")
-        .text(`Notable Courses: ${resumeData.education.college.notableCourses.join(", ")}`)
-        .attr("id", "courses");
-        */
+        .text(`Accolades: ${resumeData.education.college.accolades.join(", ")}`)
+        .attr("id", "accolades");
+        
 }
 function generateSchoolProjects() {
     let section = d3.select("div.mainBody").append("section").attr("class", "school-projects");
