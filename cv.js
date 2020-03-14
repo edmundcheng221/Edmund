@@ -299,8 +299,8 @@ function initialLoad() {
     format = "cv";
     generateHeader();
     generateEducation();
-    generateWork();
     generateSchoolProjects();
+    generateWork();
     generateSkills();
     cv();
 }
