@@ -174,6 +174,41 @@ function generateEducation() {
         .attr("id", "courses");
         */
 }
+function generateSchoolProjects() {
+    let section = d3.select("div.mainBody").append("section").attr("class", "school-projects");
+    section.append(sectionHeader)
+        .text("Projects")
+        .attr("id", "header")
+    let projects = section.append("div")
+        .attr("id", "project-container");
+    let projectsData = projects.selectAll("div")
+        .data(resumeData.schoolProjects)
+        .enter().append("div")
+        .attr("id", "single-project")
+        .attr("class", function(d) { return hideForResume(d); });
+    let projectHeader = projectsData.append("div")
+        .attr("id", "item-header");
+    projectHeader.append("span")
+        .attr("id", "project-name")
+        .append("strong")
+        .text(function(d) {
+            return d.title;
+        });
+    projectHeader.append("span")
+        .attr("id", "duration")
+        .append("strong")
+        .text(function(d) {
+            return d.duration;
+        });
+    projectsData.append("div").append("ul")
+        .selectAll("li")
+        .data(function(d) {
+            return d.responsibilities;
+        }).enter().append("li")
+        .text(function(d) {
+            return d;
+        }); 
+}
 
 function generateWork() {
     let section = d3.select("div.mainBody").append("section").attr("class", "work");
@@ -211,41 +246,6 @@ function generateWork() {
         }));
 }
 
-function generateSchoolProjects() {
-    let section = d3.select("div.mainBody").append("section").attr("class", "school-projects");
-    section.append(sectionHeader)
-        .text("Projects")
-        .attr("id", "header")
-    let projects = section.append("div")
-        .attr("id", "project-container");
-    let projectsData = projects.selectAll("div")
-        .data(resumeData.schoolProjects)
-        .enter().append("div")
-        .attr("id", "single-project")
-        .attr("class", function(d) { return hideForResume(d); });
-    let projectHeader = projectsData.append("div")
-        .attr("id", "item-header");
-    projectHeader.append("span")
-        .attr("id", "project-name")
-        .append("strong")
-        .text(function(d) {
-            return d.title;
-        });
-    projectHeader.append("span")
-        .attr("id", "duration")
-        .append("strong")
-        .text(function(d) {
-            return d.duration;
-        });
-    projectsData.append("div").append("ul")
-        .selectAll("li")
-        .data(function(d) {
-            return d.responsibilities;
-        }).enter().append("li")
-        .text(function(d) {
-            return d;
-        }); 
-}
 
 function generateSkills() {
     let section = d3.select("div.mainBody").append("section").attr("class", "skills");
