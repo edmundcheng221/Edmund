@@ -115,10 +115,11 @@ function data() {
                     category: "Programming Languages (Relevant Frameworks and Libraries)",
                     items: [
                         "JavaScript/TypeScript (Angular, node.js)",
-                        "Python (Django)",
+                        "Python 3.7 (Django)",
                         "Matlab",
                         "Simulink",
-                        "HTML/CSS"
+                        "HTML/CSS",
+                        "Labview"
          
                     ]
                 },
@@ -130,7 +131,9 @@ function data() {
                         "ANSYS",
                         "Git",
                         "Microsoft Office",
-                        "Scrapy"
+                        "Scrapy",
+                        "Adobe Suite",
+                        "Atom"
                     ]
                 },
                 {
