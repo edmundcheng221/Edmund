@@ -17,7 +17,7 @@ function data() {
                     institution: "New York University",
                     major: "B.S., Mechanical Engineering with Aerospace Specialization (2021)",
                     honors: ["GPA: 3.06, NYU Tandon Scholarship, NYU Trio Scholar"],
-                    accolades: "International Baccalaureat Diploma with Certificates in Mathematics and Physics, New York City Comptroller’s Student Achievement Award (2017)" 
+                    accolades: "International Baccalaureat Diploma with Certificates in Mathematics and Physics, New York City Comptroller’s Student Achievement Award (2017), Society for the Advancement of Material Processes and Engineering" 
                     /*notableCourses: [
                         "SolidWorks 3D Modeling",
                         "Finite Element Analysis"
