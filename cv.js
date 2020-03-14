@@ -29,12 +29,21 @@ function data() {
                     duration: "Jan. 2018-Jan. 2019",
                     title: "Soft Robotics Student Researcher",
                     responsibilities: [
-                        "-",
-                        "-"
+                        "Simulation, material selection, design, construction and test of soft robotic structures.",
+                        "Designed and programmed a soft robot wheel that contains pneumatically actuated channels",
+                        "Designed and programmed a soft robot gripper which utilizes GeckSkin to grip flat surfaces"
+   
+                    ]
+                },
+                {
+                    duration: "Feb.2018-May 2018",
+                    title: "Robotic Car Design",
+                    responsibilities: [
+                        "Developed and programmed a cost effective robotic vehicle capable of traversing a predetermined route",
+                        "Corrdinated with team, set goals, and implemented a plan to achieve those goals"
    
                     ]
                 }
-               
 
 
 
@@ -59,7 +68,9 @@ function data() {
                     title: "Research Intern",
                     company: "Eisele Research Group",
                     responsibilities: [
-                        "-"
+                        "Worked alongside researchers in developing new material synthesis protocols",
+                        "Carried out experiments relating to the development of nanoparticles",
+                        "Collected and analyzed relevant data"
                     ]
                 },
                 {
@@ -67,9 +78,11 @@ function data() {
                     title: "Software Engineering Intern",
                     company: "WILD Technologies AI Limited",
                     responsibilities: [
-                        "-",
-                        "-",
-                        "-"
+                        "Worked on back-end programming using the Django Framework",
+                        "Worked on Front-end programming using the Angular framework",
+                        "Interacted with developers and assist by writing code in Python 3.7 (Spyder IDE), HTML, CSS, Javascript, and TypeScript,
+                        "Scraped relevant data using the Scrapy tool",
+                        "Worked on building REST API using platforms such as node.js"
                      
                     ],
                   //  hideForResume: true
@@ -79,8 +92,10 @@ function data() {
                     title: "Student Assistant",
                     company: "Bern Dibner Library of Science and Technology",
                     responsibilities: [
-                        "",
-                        ""
+                        "Assist patrons in regard to locating and accessing library resources",
+                        "Process books and keep track of library materials using the library’s databases",
+                        "Perform clerical activities such as answering phones and sorting books",
+                        "Assist in diagnosing and resolving minor technical issues faced by patrons at the library"
                     ]
                 },
                 {
@@ -114,14 +129,14 @@ function data() {
                         "AutoCAD",
                         "ANSYS",
                         "Git",
-                        "Microsoft Office"
+                        "Microsoft Office",
+                        "Scrapy"
                     ]
                 },
                 {
                     category: "Miscellaneous",
                     items: [
-                        "Fluent in Cantonese and English",
-                        "Weightlifter"
+                        "Fluent in Cantonese and English"
                         
                     ]
                 }
