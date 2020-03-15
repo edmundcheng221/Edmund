@@ -40,7 +40,7 @@ function data() {
                     title: "Robotic Car Design",
                     responsibilities: [
                         "Developed and programmed a cost effective robotic vehicle capable of traversing a predetermined route",
-                        "Corrdinated with team, set goals, and implemented a plan to achieve those goals"
+                        "Coordinated with team, set goals, and implemented a plan to achieve those goals"
    
                     ]
                 }
@@ -80,7 +80,7 @@ function data() {
                     responsibilities: [
                         "Worked on back-end programming using the Django Framework",
                         "Worked on Front-end programming using the Angular framework",
-                        "Interacted with developers and assist by writing code in Python 3.7 (Spyder IDE), HTML, CSS, Javascript, and TypeScript",
+                        "Interacted with developers and assist by writing code in Python 3.7 (Spyder IDE), HTML, CSS, JavaScript, and TypeScript",
                         "Scraped relevant data using the Scrapy tool",
                         "Worked on building REST API using platforms such as node.js"
                      
@@ -132,14 +132,15 @@ function data() {
                         "Git",
                         "Microsoft Office",
                         "Scrapy",
-                        "Adobe Suite",
-                        "Atom"
+                        "Adobe Suite"
                     ]
                 },
                 {
                     category: "Miscellaneous",
                     items: [
-                        "Fluent in Cantonese and English"
+                        "Fluent in Cantonese and English",
+                        "Atom Text",
+                        "Sublime Text"
                         
                     ]
                 }
