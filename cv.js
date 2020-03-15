@@ -80,7 +80,7 @@ function data() {
                     responsibilities: [
                         "Worked on back-end programming using the Django Framework",
                         "Worked on Front-end programming using the Angular framework",
-                        "Interacted with developers and assist by writing code in Python 3.7 (Spyder IDE), HTML, CSS, JavaScript, and TypeScript",
+                        "Interacted and assisted developers by writing code in Python 3.7 (Spyder IDE), HTML, CSS, JavaScript, and TypeScript",
                         "Scraped relevant data using the Scrapy tool",
                         "Worked on building REST API using platforms such as node.js"
                      
