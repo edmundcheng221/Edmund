@@ -123,7 +123,7 @@ function data() {
                 {
                     category: "Programming Languages (Relevant Frameworks and Libraries)",
                     items: [
-                        "JavaScript/TypeScript (Angular, node.js)",
+                        "JavaScript/TypeScript (Angular, REACT, node.js)",
                         "Python 3.7 (Django)",
                         "Matlab",
                         "Simulink",
@@ -148,7 +148,7 @@ function data() {
                     category: "Miscellaneous",
                     items: [
                         "Fluent in Cantonese and English",
-                        "Atom Text",
+                        "Visual Studio",
                         "Sublime Text"
                         
                     ]
