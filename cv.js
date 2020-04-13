@@ -26,6 +26,15 @@ function data() {
             },
             schoolProjects: [
                 {
+                    duration: "April 2020",
+                    title: "JP Morgan Chase & Co. Software Engineering Virtual Internship",
+                    responsibilities: [
+                        "Fixed broken client datafeed script in the repository by making the required adjustments",
+                        "Fixed broken typescript files in repository to make the web application output correctly",
+                        "Used perspective to generate a live graph that displays the data feed in a clear and visually appealing way for traders"
+                        ]
+                },
+                {
                     duration: "Jan. 2018-Jan. 2019",
                     title: "Soft Robotics Student Researcher",
                     responsibilities: [
