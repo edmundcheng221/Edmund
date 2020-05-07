@@ -61,7 +61,19 @@ function data() {
             ],
             work: [
                 {
-                    duration: "July 2019-Present",
+                    duration: "June 2020-Present",
+                    title: "Equipment Design & Engineering Intern",
+                    company: "New Jersey Transit",
+                    responsibilities: [
+                        "Apply engineering principals to the transportation industry relating to the design of rail and bus equipment",
+                        "Coordinate with project managers and write detailed reports of project timelines",
+                        "Conceptualize and produce solutions based on project requirements and company’s values",
+                        "Manage and organize neccessary data"
+
+                    ]
+                },
+                {
+                    duration: "July 2019-June 2020",
                     title: "Engineering Project Assistant",
                     company: "NYU Tandon School of Engineering",
                     responsibilities: [
@@ -94,7 +106,7 @@ function data() {
                         "Worked on building REST API using platforms such as node.js"
                      
                     ],
-                  //  hideForResume: true
+                    //hideForResume: true
                 },
                 {
                     duration: "Aug. 2017-Present",
@@ -105,7 +117,8 @@ function data() {
                         "Process books and keep track of library materials using the library’s databases",
                         "Perform clerical activities such as answering phones and sorting books",
                         "Assist in diagnosing and resolving minor technical issues faced by patrons at the library"
-                    ]
+                    ],
+                    hideForResume: true
                     
                 }
               //  {
