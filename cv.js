@@ -107,20 +107,20 @@ function data() {
                      
                     ],
                     //hideForResume: true
-                },
-                {
-                    duration: "Aug. 2017-Present",
-                    title: "Student Assistant",
-                    company: "Bern Dibner Library of Science and Technology",
-                    responsibilities: [
-                        "Assist patrons in regard to locating and accessing library resources",
-                        "Process books and keep track of library materials using the library’s databases",
-                        "Perform clerical activities such as answering phones and sorting books",
-                        "Assist in diagnosing and resolving minor technical issues faced by patrons at the library"
-                    ],
-                    hideForResume: true
-                    
                 }
+//                 {
+//                     duration: "Aug. 2017-Present",
+//                     title: "Student Assistant",
+//                     company: "Bern Dibner Library of Science and Technology",
+//                     responsibilities: [
+//                         "Assist patrons in regard to locating and accessing library resources",
+//                         "Process books and keep track of library materials using the library’s databases",
+//                         "Perform clerical activities such as answering phones and sorting books",
+//                         "Assist in diagnosing and resolving minor technical issues faced by patrons at the library
+//                     ],
+//                    // hideForResume: true
+                    
+//                 }
               //  {
               //      duration: "-",
                //     title: "-",
