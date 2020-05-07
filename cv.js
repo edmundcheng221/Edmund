@@ -106,6 +106,7 @@ function data() {
                         "Perform clerical activities such as answering phones and sorting books",
                         "Assist in diagnosing and resolving minor technical issues faced by patrons at the library"
                     ]
+                    hideForResume: true
                 }
               //  {
               //      duration: "-",
