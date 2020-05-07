@@ -17,7 +17,7 @@ function data() {
                     institution: "New York University",
                     major: "B.S., Mechanical Engineering, Integrated Digital Media Minor (2021)",
                     honors: ["GPA: 3.06, NYU Tandon Scholarship, NYU Trio Scholar"],
-                    accolades: "International Baccalaureat Diploma, New York City Comptroller’s Student Achievement Award (2017), Society for the Advancement of Material Processes and Engineering, American Society of Mechanical Engineers (NYU Chapter)" 
+                    accolades: "International Baccalaureat Diploma, NYC Comptroller’s Student Achievement Award (2017), Society for the Advancement of Material Processes and Engineering, American Society of Mechanical Engineers (NYU Chapter)" 
                     /*notableCourses: [
                         "SolidWorks 3D Modeling",
                         "Finite Element Analysis"
