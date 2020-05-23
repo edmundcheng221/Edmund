@@ -16,8 +16,7 @@ function data() {
                 college: {
                     institution: "New York University",
                     major: "B.S., Mechanical Engineering, Integrated Digital Media Minor (2021)",
-                    ["Major GPA: 3.32"], 
-                    honors: ["NYU Tandon Scholarship, NYU Trio Scholar"],
+                    honors: ["Major GPA 3.32/4.00 NYU Tandon Scholarship, NYU Trio Scholar"],
                     accolades: "International Baccalaureat Diploma, NYC Comptroller’s Student Achievement Award (2017), Society for the Advancement of Material Processes and Engineering, American Society of Mechanical Engineers (NYU Chapter)" 
                     /*notableCourses: [
                         "SolidWorks 3D Modeling",
