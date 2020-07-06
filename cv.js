@@ -16,7 +16,7 @@ function data() {
                 college: {
                     institution: "New York University",
                     major: "B.S., Mechanical Engineering, Integrated Digital Media Minor (2021)",
-                    honors: ["Major GPA 3.32/4.00 NYU Tandon Scholarship, NYU Trio Scholar"],
+                    honors: ["Major GPA 3.395/4.000 NYU Tandon Scholarship, NYU Trio Scholar"],
                     accolades: "International Baccalaureat Diploma, NYC Comptroller’s Student Achievement Award (2017), Society for the Advancement of Material Processes and Engineering, American Society of Mechanical Engineers (NYU Chapter)" 
                     /*notableCourses: [
                         "SolidWorks 3D Modeling",
@@ -49,7 +49,7 @@ function data() {
                     title: "Robotic Car Design",
                     responsibilities: [
                         "Developed and programmed a cost effective robotic vehicle capable of traversing a predetermined route",
-                        "Coordinated with team, set goals, and implemented a plan to achieve those goals"
+                        "Coordinated with team, set goals, and implemented a plan to meet project requirements"
    
                     ]
                 }
@@ -66,9 +66,9 @@ function data() {
                     company: "New Jersey Transit",
                     responsibilities: [
                         "Apply engineering principals to the transportation industry relating to the design of rail and bus equipment",
-                        "Coordinate with project managers and write detailed reports of project timelines",
-                        "Conceptualize and produce solutions based on project requirements and company’s values",
-                        "Manage and organize neccessary data"
+                        "Coordinate with project managers and write detailed reports",
+                        "Develop equipment and engineering specifations",
+                        "Utilize RFP and IFP specifications to develop Pre-Production meeting agenda for the production and overhall of new buses and locomotives"
 
                     ]
                 },
