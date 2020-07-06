@@ -65,10 +65,10 @@ function data() {
                     title: "Equipment Design & Engineering Intern",
                     company: "New Jersey Transit",
                     responsibilities: [
-                        "Apply engineering principals to the transportation industry relating to the design of rail and bus equipment",
-                        "Coordinate with project managers and write detailed reports",
+                        "Apply engineering principles to the transportation industry relating to the design of rail and bus equipment",
+                        "Coordinate with project managers to develop presentations and write detailed reports",
                         "Develop equipment and engineering specifations",
-                        "Utilize RFP and IFP specifications to develop Pre-Production meeting agenda for the production and overhall of new buses and locomotives"
+                        "Utilize RFP and IFP specifications to develop Pre-Production meeting agendas regarding the production and overhaul of new buses and locomotives"
 
                     ]
                 },
