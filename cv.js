@@ -142,6 +142,7 @@ function data() {
                         "Matlab",
                         "Simulink",
                         "HTML/CSS",
+                        "Bootstrap",
                         "Labview"
          
                     ]
@@ -153,7 +154,7 @@ function data() {
                         "AutoCAD",
                         "ANSYS",
                         "Git",
-                        "Microsoft Office",
+                        "Microsoft Office Suite",
                         "Scrapy",
                         "Adobe Suite"
                     ]
